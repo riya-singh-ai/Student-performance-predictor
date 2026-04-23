@@ -49,7 +49,7 @@ To build a regression model that can estimate student performance and understand
 ## 📈 Visualizations
 
 ### 🔹 Actual vs Predicted Scores
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](scatter.plot.png)
 
 
 
