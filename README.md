@@ -1,5 +1,7 @@
 # 🎓 Student Performance Predictor
 
+📊 Predicting student performance with MAE ~3.39 using regression models
+
 ## 📌 Overview
 This project predicts a student's final grade (G3) using machine learning based on factors like study time, family background, and lifestyle habits.
 
